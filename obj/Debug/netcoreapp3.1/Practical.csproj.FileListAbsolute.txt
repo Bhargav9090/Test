@@ -1,0 +1,11 @@
+F:\Bhargav\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.exe
+F:\Bhargav\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.deps.json
+F:\Bhargav\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.runtimeconfig.json
+F:\Bhargav\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.runtimeconfig.dev.json
+F:\Bhargav\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.dll
+F:\Bhargav\Practical\Practical\bin\Debug\netcoreapp3.1\Practical.pdb
+F:\Bhargav\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.csprojAssemblyReference.cache
+F:\Bhargav\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.AssemblyInfoInputs.cache
+F:\Bhargav\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.AssemblyInfo.cs
+F:\Bhargav\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.dll
+F:\Bhargav\Practical\Practical\obj\Debug\netcoreapp3.1\Practical.pdb
